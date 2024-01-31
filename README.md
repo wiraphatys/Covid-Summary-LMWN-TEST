@@ -11,7 +11,7 @@ This project is a simple JSON API built with Go and the Gin web framework. It pr
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/wiraphatys/Covid-Summary-LMWN-TEST.git)
    cd GoCovidSummaryProject
    ```
 
