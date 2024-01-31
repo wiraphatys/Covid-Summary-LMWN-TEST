@@ -61,17 +61,3 @@ This project is a simple JSON API built with Go and the Gin web framework. It pr
 
 ## Contributions
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is open-sourced under the MIT License.
-```
-
-### Notes:
-- Replace `[repository-url]` with the actual URL of your Git repository.
-- This README provides a basic structure. You might want to customize it further based on the specifics of your project or any additional documentation you wish to include.
-
-### Suggested Next Actions:
-- **Z**: If you need the project along with the README file zipped and ready for download.
-- **E**: To expand on any specific section of the README or add additional content.
-- **S**: If you want a detailed explanation of any part of the README content.
-- **D**: For any modifications or additional features in your project.
